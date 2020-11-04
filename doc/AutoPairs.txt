@@ -15,7 +15,7 @@ CONTENTS                                                    *autopairs-contents*
     6. Troubleshooting ......................  |autopairs-troubleshooting|
 
 ==============================================================================
-1. Introduction                                         *autopairs-installation*
+1. Installation                                         *autopairs-installation*
 
 Copy `plugin/auto-pairs.vim` to `~/.vim/plugin`.
 
